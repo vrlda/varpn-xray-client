@@ -1,0 +1,19 @@
+// Application-level settings for the Runner target.
+//
+// This may be replaced with something auto-generated from metadata (e.g., pubspec.yaml) in the
+// future. If not, the values below would default to using the project name when this becomes a
+// 'flutter create' template.
+
+// The application's name. By default this is also the title of the Flutter window.
+PRODUCT_NAME = VarPN
+
+// The application's bundle identifier
+PRODUCT_BUNDLE_IDENTIFIER = cc.varpn.easyxray
+
+// Shared identifiers used by the main app and packet tunnel extension.
+APP_GROUP_IDENTIFIER = group.cc.varpn.easyxray
+PACKET_TUNNEL_BUNDLE_IDENTIFIER = cc.varpn.easyxray.PacketTunnelProvider
+RUNNER_TESTS_BUNDLE_IDENTIFIER = cc.varpn.easyxray.RunnerTests
+
+// The copyright displayed in application information
+PRODUCT_COPYRIGHT = Copyright © 2026 VarPN. All rights reserved.
