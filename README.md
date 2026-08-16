@@ -2,8 +2,6 @@
 
 VarPN is a Flutter VPN client for macOS and iOS. It combines a one-tap connection flow with subscription parsing, automatic node selection, smart routing, and practical connection diagnostics.
 
-![VarPN](VarPN1.jpg)
-
 ## Features
 
 - Import VLESS, VMess, Trojan, and Shadowsocks subscriptions.
